@@ -1,0 +1,38 @@
+/*
+ID: donggun1
+LANG: JAVA
+TASK: skidesign
+*/
+
+import java.io.*;
+import java.util.*;
+
+public class skidesign {
+
+    static Scanner in;
+    static PrintWriter out;
+
+    public static void main(String[] args) {
+        try {
+            in = new Scanner(new File("skidesign.in"));
+            out = new PrintWriter(new File("skidesign.out"));
+            init();
+            out.println(solve());
+            in.close();
+            out.close();
+        } 
+        catch(Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    static void init(){
+    	
+    }
+
+    static String solve() {
+        
+    	return null;
+    }
+
+}

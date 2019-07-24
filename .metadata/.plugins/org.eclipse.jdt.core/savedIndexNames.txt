@@ -1,0 +1,3 @@
+INDEX VERSION 1.130+C:\Users\dongg\Documents\USACO\.metadata\.plugins\org.eclipse.jdt.core
+3306942342.index
+3111287885.index
